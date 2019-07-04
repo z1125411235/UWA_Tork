@@ -1,0 +1,7 @@
+版本:2017.4.27f1
+
+UWA網址__https://lab.uwa4d.com/lab/5cb0fc0b72745c25a877912b
+
+官方Github網址__https://github.com/adrenak/Tork
+
+本人Github網址__https://github.com/z1125411235/UWA_Tork
